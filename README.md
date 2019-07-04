@@ -1,7 +1,7 @@
 # Auto WallPaper 
-
+```
 Using beautifulsoup to scrape images from 'https://www.wallpapermaiden.com', then setting that image as the wallpaper
-
+```
 
 
 ### Prerequisites
