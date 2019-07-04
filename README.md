@@ -5,7 +5,7 @@ Using beautifulsoup to scrape images from 'https://www.wallpapermaiden.com', the
 
 
 ### Prerequisites
-
+```
 Python3
 Libs:
 OS
@@ -13,7 +13,7 @@ ctypes
 BeautifulSoup, SoupStrainer
 urllib
 ssl
-
+```
 
 
 ### Instructions 
@@ -21,6 +21,9 @@ ssl
 In CMD Pront run python3 wallpaper.py
  
 ### Batch file
+
 I used these sources to create a batch file
+```
 https://datatofish.com/batch-python-script/
 https://www.computerhope.com/issues/ch000322.htm
+```
